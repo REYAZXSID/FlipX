@@ -37,7 +37,7 @@ export function Header() {
                 <Tooltip>
                     <TooltipTrigger asChild>
                         <Button asChild variant="outline" size="icon">
-                            <a href="https://instagram.com" target="_blank" rel="noopener noreferrer">
+                            <a href="https://instagram.com/reyaz_sid" target="_blank" rel="noopener noreferrer">
                                 <Instagram className="h-5 w-5" />
                                 <span className="sr-only">Instagram</span>
                             </a>
