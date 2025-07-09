@@ -92,8 +92,8 @@ export const POWERUPS: PowerUp[] = [
 
 export const CARD_BACKS: CardBack[] = [
   { id: 'default', name: 'Default', className: 'card-back-default', themeBackgroundClass: 'theme-bg-default', cost: 0, type: 'free' },
-  { id: 'galaxy', name: 'Galaxy', className: 'card-back-galaxy', themeBackgroundClass: 'theme-bg-galaxy', cost: 100, type: 'premium', content: 'https://files.catbox.moe/v6xkrb.jpg' },
-  { id: 'circuit', name: 'Circuit', className: 'card-back-circuit', themeBackgroundClass: 'theme-bg-circuit', cost: 150, type: 'premium', content: 'https://files.catbox.moe/87dao4.jpg' },
+  { id: 'galaxy', name: 'Galaxy', className: 'card-back-galaxy', themeBackgroundClass: 'theme-bg-galaxy', cost: 100, type: 'premium', content: 'https://files.catbox.moe/u0z1n3.jpg' },
+  { id: 'circuit', name: 'Circuit', className: 'card-back-circuit', themeBackgroundClass: 'theme-bg-circuit', cost: 150, type: 'premium', content: 'https://files.catbox.moe/mkd1v0.jpg' },
   { id: 'carbon', name: 'Carbon Fiber', className: 'card-back-carbon', themeBackgroundClass: 'theme-bg-carbon', cost: 200, type: 'premium', content: 'https://files.catbox.moe/ia5v7i.jpg' },
 ]
 
